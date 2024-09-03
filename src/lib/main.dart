@@ -15,6 +15,7 @@ void main() {
     children: [
       Text('米'),
       Text('剣士'),
+      Image.asset('assets/images/joushi_buka_men2_okoru.png'),
   ]);
 
   final row = Row( 
