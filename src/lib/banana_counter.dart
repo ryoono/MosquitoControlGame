@@ -9,7 +9,7 @@ class BananaCounter extends StatelessWidget {
   Widget build(BuildContext context) {
 
     // バナナの画像
-    final banana = Image.asset('assets/images/joushi_buka_men2_okoru.png');
+    final banana = Image.asset('assets/images/banana_kawa_muke.png');
 
     // 数字の部分
     final text = Text(
